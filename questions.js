@@ -1,11 +1,11 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "春日又至，听从灌木的教诲，我打算学习颜回的生活方式，一箪食一瓢饮，不该其乐.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
+            "econ": 20,
+            "dipl": 5,
             "govt": -5,
-            "scty": 0
+            "scty": 15
         }
     },
     {
