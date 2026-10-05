@@ -1,128 +1,128 @@
 questions = [
     {
-        "question": "春日又至，听从灌木的教诲，我打算学习颜回的生活方式，一箪食一瓢饮，不该其乐.",
+        "question": "春日又至，听从灌木的教诲，我打算学习颜回的生活方式，一箪食一瓢饮，不改其乐.",
         "effect": {
-            "econ": 20,
+            "econ": 25,
             "dipl": 5,
             "govt": -5,
-            "scty": 15
+            "scty": 10
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "20年的冬天，大雁被冻伤，掉落在朴田的院落，你准备救助它.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "econ": 15,
+            "dipl": 15,
+            "govt": 10,
+            "scty": 10
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "老实学习太无聊了，我打算去和纯情的同学深夜聊天赚钱咯.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "econ": -20,
+            "dipl": -5,
+            "govt": -15,
+            "scty": -5
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "托尔斯泰漠然走进暴雪之中无疑触动了我，我也幻想着，有一天，能够像他那样.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
-        "effect": {
-            "econ": 10,
+            "econ": 15,
             "dipl": 0,
             "govt": 0,
             "scty": 10
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "我尝尝回想起花厅的日子，想起那无比纯真而又美好的日子，每每出神.",
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "govt": 5,
+            "scty": 10
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "我总是很容易的交到了朋友，大家都是我的翅膀.",
         "effect": {
-            "econ": 10,
+            "econ": -5,
+            "dipl": 5,
+            "govt": 20,
+            "scty": -5
+        }
+    },
+    {
+        "question": "我感觉自己有如李晟阳一般，浑身上下充满了太阳的能量.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": -5,
+            "scty": -5
+        }
+    },
+    {
+        "question": "钱堃、毛冠杰这种在花厅尝尝能制造出许多笑点的人无疑是我的榜样.",
+        "effect": {
+            "econ": 0,
+            "dipl": 5,
+            "govt": 15,
+            "scty": 5
+        }
+    },
+    {
+        "question": "秋便这样来了，来了又去，去了又来，反复无常，使人来不及感受这一片萧瑟，没有凋零的尘埃，任何的一切都显得匆忙而又徒劳，我常常这么想.",
+        "effect": {
+            "econ": 0,
             "dipl": 0,
+            "govt": 5,
+            "scty": 15
+        }
+    },
+    {
+        "question": "我居然看到了一只蜗牛，是蜗牛欸，这不得拿来整蛊一下我的好友.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
             "govt": 0,
-            "scty": 0
+            "scty": 5
         }
     },
     {
-        "question": "It would be best if social programs were abolished in favor of private charity.",
+        "question": "我居然看到面前又跟蜡烛，我一定要点着些什么才罢休，管他呢，着火了用茶水浇灭它.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "econ": -5,
+            "dipl": -5,
+            "govt": 5,
+            "scty": 10
         }
     },
     {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "我热爱苍鹰.",
         "effect": {
-            "econ": 10,
+            "econ": 5,
             "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "govt": 10,
+            "scty": 10
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "我读书不好都是23.5中学干的呀.",
         "effect": {
-            "econ": -10,
-            "dipl": 0,
+            "econ": 5,
+            "dipl": -20,
             "govt": 0,
             "scty": -5
         }
     },
     {
-        "question": "Basic utilities like roads and electricity should be publicly owned.",
+        "question": "我准备在质疑我为人的异性面前表演一波，假装是同性恋，亲一口我的闺蜜，看看他的反应.",
         "effect": {
-            "econ": 10,
+            "econ": -20,
             "dipl": 0,
-            "govt": 0,
+            "govt": -10,
             "scty": 0
-        }
-    },
-    {
-        "question": "Government intervention is a threat to the economy.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Those with a greater ability to pay should receive better healthcare.",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Quality education is a right of all people.",
-        "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 5
         }
     },
     {
