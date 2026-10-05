@@ -2,10 +2,10 @@ questions = [
     {
         "question": "春日又至，听从灌木的教诲，我打算学习颜回的生活方式，一箪食一瓢饮，不改其乐.",
         "effect": {
-            "econ": 25,
+            "econ": 20,
             "dipl": 5,
             "govt": -5,
-            "scty": 10
+            "scty": 15
         }
     },
     {
@@ -21,9 +21,9 @@ questions = [
         "question": "老实学习太无聊了，我打算去和纯情的同学深夜聊天赚钱咯.",
         "effect": {
             "econ": -20,
-            "dipl": -5,
+            "dipl": 0,
             "govt": -15,
-            "scty": -5
+            "scty": 5
         }
     },
     {
@@ -50,7 +50,7 @@ questions = [
             "econ": -5,
             "dipl": 5,
             "govt": 20,
-            "scty": -5
+            "scty": 0
         }
     },
     {
@@ -126,507 +126,210 @@ questions = [
         }
     },
     {
-        "question": "The means of production should belong to the workers who use them.",
+        "question": "我全力支持滑鸡、咔鹿和咔柴，祝愿他们成功.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "The United Nations should be abolished.",
-        "effect": {
-            "econ": 0,
+            "econ": 5,
             "dipl": -10,
-            "govt": -5,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Military action by our nation is often necessary to protect it.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "I support regional unions, such as the European Union.",
-        "effect": {
-            "econ": -5,
-            "dipl": 10,
             "govt": 10,
-            "scty": 5
-        }
-    },
-    {
-        "question": "It is important to maintain our national sovereignty.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -5,
-            "scty": 0
-        }
-    },
-    {
-        "question": "A united world government would be beneficial to mankind.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "It is more important to retain peaceful relations than to further our strength.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Wars do not need to be justified to other countries.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Military spending is a waste of money.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "International aid is a waste of money.",
-        "effect": {
-            "econ": -5,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "My nation is great.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Research should be conducted on an international scale.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
             "scty": 10
         }
     },
     {
-        "question": "Governments should be accountable to the international community.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 5,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "question": "哎呀哎呀，又收到小迷妹送给我的糖了，怎么办了，送给旁边那个朋友吧.",
         "effect": {
             "econ": 0,
             "dipl": 5,
-            "govt": -5,
+            "govt": 20,
             "scty": 0
         }
     },
     {
-        "question": "My religious values should be spread as much as possible.",
+        "question": "我就是要当一个泼妇，怎么了，虽然是女子但是我就是要去饰演 姚苌 ，让他们见识以下最臭的威力.",
         "effect": {
-            "econ": 0,
-            "dipl": -5,
-            "govt": -10,
-            "scty": -10
+            "econ": 15,
+            "dipl": -15,
+            "govt": 5,
+            "scty": 15
         }
     },
     {
-        "question": "Our nation's values should be spread as much as possible.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -5,
-            "scty": 0
-        }
-    },
-    {
-        "question": "It is very important to maintain law and order.",
-        "effect": {
-            "econ": 0,
-            "dipl": -5,
-            "govt": -10,
-            "scty": -5
-        }
-    },
-    {
-        "question": "The general populace makes poor decisions.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Physician-assisted suicide should be legal.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Government surveillance is necessary in the modern world.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "The very existence of the state is a threat to our liberty.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Regardless of political opinions, it is important to side with your country.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": -5
-        }
-    },
-    {
-        "question": "All authority should be questioned.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 5
-        }
-    },
-    {
-        "question": "A hierarchical state is best.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "It is important that the government follows the majority opinion, even if it is wrong.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "The stronger the leadership, the better.",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Democracy is more than a decision-making process.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Environmental regulations are essential.",
+        "question": "面对传播我绯闻的宵小之徒，我一定要重拳出击.",
         "effect": {
             "econ": 5,
+            "dipl": -10,
+            "govt": 15,
+            "scty": 15
+        }
+    },
+    {
+        "question": "面对传播我绯闻的宵小之徒，我一定不要重拳出击，我暗自享受着呢.",
+        "effect": {
+            "econ": -5,
             "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "A better world will come from automation, science, and technology.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Children should be educated in religious or traditional values.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Traditions are of no value on their own.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Religion should play a role in government.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Churches should be taxed the same way other institutions are taxed.",
-        "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Climate change is currently one of the greatest threats to our way of life.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "It is important that we work as a united world to combat climate change.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Society was better many years ago than it is now.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "It is important that we maintain the traditions of our past.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "It is important that we think in the long term, beyond our lifespans.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Reason is more important than maintaining our culture.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "Drug use should be legalized or decriminalized.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 2
-        }
-    },
-    {
-        "question": "Same-sex marriage should be legal.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 10
-        }
-    },
-    {
-        "question": "No cultures are superior to others.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
             "govt": 5,
             "scty": 10
         }
     },
     {
-        "question": "Sex outside marriage is immoral.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": -10
-        }
-    },
-    {
-        "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Abortion should be prohibited in most or all cases.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Gun ownership should be prohibited for those without a valid reason.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "I support single-payer, universal healthcare.",
+        "question": "野地的写作转眼7周年过去，我不由得，开始怀念起当年欣欣向荣的光景.",
         "effect": {
             "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Prostitution should be illegal.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Maintaining family values is essential.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "To chase progress at all costs is dangerous.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
-        }
-    },
-    {
-        "question": "Genetic modification is a force for good, even on humans.",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
-        }
-    },
-    {
-        "question": "We should open our borders to immigration.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 0
-        }
-    },
-    {
-        "question": "Governments should be as concerned about foreigners as they are about their own citizens.",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "question": "All people - regardless of factors like culture or sexuality - should be treated equally.",
-        "effect": {
-            "econ": 10,
-            "dipl": 10,
+            "dipl": -5,
             "govt": 10,
             "scty": 10
         }
     },
     {
-        "question": "It is important that we further my group's goals above all others.",
+        "question": "我想要成为花厅的松树，迎难而上，海破天空.",
+        "effect": {
+            "econ": 10,
+            "dipl": -5,
+            "govt": 15,
+            "scty": 15
+        }
+    },
+    {
+        "question": "骗你的，我加入SQM只是为了享乐和反串.",
         "effect": {
             "econ": -10,
+            "dipl": 5,
+            "govt": 0,
+            "scty": -5
+        }
+    },
+    {
+        "question": "我早已陷入了追星的泥沼，再也记不得当年SQM的荣光伟力.",
+        "effect": {
+            "econ": 40,
+            "dipl": -5,
+            "govt": 10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "我前往花厅是为了逃避，逃避逝去亲人的痛苦.",
+        "effect": {
+            "econ": 5,
+            "dipl": 5,
+            "govt": 5,
+            "scty": 15
+        }
+    },
+    {
+        "question": "我很同意TST曾经说过的那句话:二人一齐，干活不累.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": 5,
+            "scty": 10
+        }
+    },
+    {
+        "question": "我在此忏悔，对着花厅，对着宋树忏悔，希望能宽恕当年我在花厅的种种罪行.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": 5,
+            "scty": 10
+        }
+    },
+    {
+        "question": "看有一个喷涂油漆罐？那肯定要玩一下呀.",
+        "effect": {
+            "econ": 5,
             "dipl": -10,
-            "govt": -10,
-            "scty": -10
+            "govt": 10,
+            "scty": 10
+        }
+    },
+    {
+        "question": "花厅的饺子和面，就是要多放胡椒，才好吃呐.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": 10,
+            "scty": 10
+        }
+    },
+    {
+        "question": "为了获得杰出骑士，在所不惜.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": 10,
+            "scty": 10
+        }
+    },
+    {
+        "question": "杰出骑士固然重要，但我不会为了它去改对朋友的错误答案.",
+        "effect": {
+            "econ": 5,
+            "dipl": 5,
+            "govt": 5,
+            "scty": 15
+        }
+    },
+    {
+        "question": "为了演好哈姆雷特，女装我也拼了.",
+        "effect": {
+            "econ": 25,
+            "dipl": 10,
+            "govt": 25,
+            "scty": -50
+        }
+    },
+    {
+        "question": "你朋友怎么还不来，再不来我就要把宋氢祺叫过来占座了.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 15,
+            "scty": 15
+        }
+    },
+    {
+        "question": "我无比怀念我的家乡:河南永城.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": 15,
+            "scty": 15
+        }
+    },
+    {
+        "question": "我无比厌恶一个在花厅并不算熟悉的人的突然表白.",
+        "effect": {
+            "econ": 0,
+            "dipl": -5,
+            "govt": 15,
+            "scty": 15
+        }
+    },
+    {
+        "question": "我觉得灌木的作业太多了，不愿意好好做完.",
+        "effect": {
+            "econ": -20,
+            "dipl": 0,
+            "govt": -20,
+            "scty": 0
+        }
+    },
+    {
+        "question": "我祝愿SQM长长久久，繁荣昌盛.",
+        "effect": {
+            "econ": 5,
+            "dipl":-5,
+            "govt": 10,
+            "scty": 10
+        }
+    },
+    {
+        "question": "我觉得这个问卷太滑稽了.",
+        "effect": {
+            "econ": 5,
+            "dipl": -10,
+            "govt": 10,
+            "scty": 15
         }
     }
 ];
